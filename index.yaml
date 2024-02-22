@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  prueba:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-22T18:19:09.372983047Z"
+    description: A Helm chart for Kubernetes
+    digest: 0ae4fdd01404390e8015301dbf8bc18a365057a3ce8877abffec5cbd87d7b9c2
+    name: prueba
+    type: application
+    urls:
+    - https://github.com/smaceda/helmcharts/releases/download/prueba-0.1.0/prueba-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-22T18:19:09.372989219Z"
